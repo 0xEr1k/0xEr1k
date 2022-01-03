@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />, I'm MalwareCodes 🏴‍☠️</h1>
+<br />
 
-<!--
-**MalwareCodes/MalwareCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MalwareCodes&theme=gruvbox&show_icons=true" alt="MalwareCodes" width="350" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MalwareCodes&theme=gruvbox&layout=compact" alt="MalwareCodes" width="350" height="140"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MalwareCodes&theme=gruvbox" alt="MalwareCodes" width="350" height="140"/>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center"> 🏆 GitHub Trophies </h3>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MalwareCodes&theme=gruvbox&no-bg=false&margin-w=15&margin-h=15&row=2&column=3&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="MalwareCodes" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+

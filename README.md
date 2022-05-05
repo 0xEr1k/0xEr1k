@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />, I'm MalwareCodes 🏴‍☠️</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />, I'm Erik 🏴‍☠️</h1>
 <br />
 
 <h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
